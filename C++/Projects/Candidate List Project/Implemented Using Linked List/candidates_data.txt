@@ -1,0 +1,18 @@
+123456789 Donald Duck 89 34 45 5
+756439876 Mickey Mouse 44 34 87 56
+321452345 Peter Pan 5 0 47 34
+968453641 Baloo Bear 34 55 4 12 
+862938766 Jiminy Cricket  64 34 45 65
+784338893 Webby Wanderquack 44 24 0 26 
+783456789 Fairy Mary 73 34 48 4
+823774545 Horace Horsecollar 27 4 87 17
+576299877 Panchito Pistoles 89 33 44 0
+876542887 Roger Rabitt 4 75 24 5
+234564564 Elmer Elephant 13 75 23 21
+783498932 Shere Khan 37 37 0 56 
+111222333 Lilo Pelekai 23 73 62 75
+123674543 Gus Lollygagger 0 13 43 45
+789567856 Bugs Bunny 12 34 10 33
+342932712 Wilbur Robinson 34 4 5 56 
+987654321 Clarabelle Cow 89 54 0 24
+-999
