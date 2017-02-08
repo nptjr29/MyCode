@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-9.8.0_d441a93fc5a5a45a5149efa83c4b6307b7483d2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e9b2cfdfd59b03643f1e240668275378b96615a8">
+        <dex dex="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-lite-9.8.0_c3086bd1492200190e1f1d55282f481065ed3f38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="0b53c4b90654b67ee3892a8e2e7b819c083ab7a6">
+        <dex dex="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-drive-9.8.0_79d62719a0c82b5297971637b9e24c0ca111235f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_f177f80e568c056b2035b5a87c70b6ca22256571.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="055eed08c9cff50cac0db69c74c4d9ff7aef3d84">
+        <dex dex="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-framework-9.8.0_28839e7598022a83e4fe93d7b8ca72e8b86a60eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_4cd3f1d8b53c532ccf4c47ac402c7eae4c77e627.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="363a20f1d25336e827dd24020f2ecdc42d62638f">
+        <dex dex="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gass-9.8.0_f18fc8a428c8a6110d5d59aeb33714f8a3b35223.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.8.0_202b05ddd77cdf106653a23954e523141552a4b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-9.8.0_9ac060b4ab76d0b484b1591fc73957ba02aed010.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-9.8.0_75aff25d5d0ae7c27b9b8b713a38b6feee092ab0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="16afe57c1d7f8165d107c7806ce7b0c71de87159">
+        <dex dex="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-9.8.0_a74938b0d06f72a0c4f03cb5a9991391190a5502.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-9.8.0_ece79e45b708291b8cba2f986089fa597d2edc48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-module-9.8.0_13176a77152f350bfab52187f62fcc654e76c263.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="20a3c4e355150c15c13dd58045d43ad0c717d916">
+        <dex dex="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-safetynet-9.8.0_fed761d7be6677417dedf4e73a68b6ddfe2e0bda.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Douglas\Desktop\Tuffy Plus Plus\core\build\libs\core-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="3f5b95d64019fa83c9b1efc429d6c04e57c8cce3">
+        <dex dex="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\pre-dexed\debug\core-1.0_d1a90ed88071d851c22d172ba27642860899d6a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.0.0_784f9913a8145b9cf571d744cfc4976110975658.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.8.0_15418d590b4144019baf5f03b146272cb6682fec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="3daa7a9c9009fd386872a84c177a76979bdcafd6">
+        <dex dex="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-plus-9.8.0_d8bac8ce282b89a4484979b068cdf54e2afbb888.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="679251204de40ace98776a6f4e3a649c27e3d89f">
+        <dex dex="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-places-9.8.0_77e76a69a7a11420fe1db02a3bb0ebc182f00948.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="0b8e087da59c0b062c33f49a335e59f907086da2">
+        <dex dex="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wearable-9.8.0_0ad5b59d5adc0f2cc5752e35e763bf9d2ee87776.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="f2d240dd085626f03f759c41d628a0c8b63e491f">
+        <dex dex="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-9.8.0_85ddb0f20c7013be9a101d89753a594e4f910bf8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-base-9.8.0_98ff6458d16c0625d099067c9e6b6d3420b40e6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.0.0_5d91aca800933d19a3e941bbad466da1e9a8f7cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ec9104b53aee77dfcfd2fe1c4add23ff7c4df55f">
+        <dex dex="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-common-9.8.0_66102992b0c06b7b63afdbf710f063800523779b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.8.0_ca56cab52d3f37a9c90318faaeb0f6a70a67c988.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="2d3035050a075484cbf2e33f1ce1f779bae4d451">
+        <dex dex="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-panorama-9.8.0_64d5f563f63d94075d456d10534fb5ad5c027684.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Douglas\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.6.1\bb5fe9832bcfe4bbc1de6bd357085b8a2a845d9c\gdx-1.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="bb5fe9832bcfe4bbc1de6bd357085b8a2a845d9c">
+        <dex dex="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\pre-dexed\debug\gdx-1.6.1_bd25c654b257bfc6da762ec3ffbce466af309c1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-9.8.0_2b413ec13fb1983ccb04a8ac025086dd552198fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a7a04d6b7c01e569a285fa627cf64f5b05295906">
+        <dex dex="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-fitness-9.8.0_a37e6750355496a5548c5c81e90c720748abacb4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="74ac7cbcf0de4a88e59612dc3a9e3f9e71acb4ca">
+        <dex dex="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-9.8.0_5df53412ab6bf402f00d69093748791363d3d4a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7fd91ec2730fdaa82906aad32a3f3d3e574bae56">
+        <dex dex="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-9.8.0_55d0893820ad3f4d7a394e36200b4a4fc77116fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="85299bf1924dde0200109a58033c5ef84ecb6991">
+        <dex dex="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-iid-9.8.0_abe2b6a438dc042266fc2de9a76718b2634de8aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\pre-dexed\debug\com.android.support-mediarouter-v7-24.0.0_1da96d674ca52df5aed61857c36205e452e965da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="266570862e5792ef3c51143a8b8593cf54fac68d">
+        <dex dex="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-api-9.8.0_7374bc4144e10af1ff1dbfac562db372fd6704ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="910c013c511f752c4bbe24c5f492f669f4a3ccc0">
+        <dex dex="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wallet-9.8.0_5d457ffea94079a0269717baab90b6639a94053b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="289cad663c288ce965463cb9ece8b35cc7de0fac">
+        <dex dex="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-config-9.8.0_29761224589eaa39060f51c39eeb9f9a4978cc99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-9.8.0_f720550f17b4c5320960a63d9280ce61202e3301.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Douglas\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.6.1\b9a5bc4404bab9feff8963bb0bd4685164e0166c\gdx-backend-android-1.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b9a5bc4404bab9feff8963bb0bd4685164e0166c">
+        <dex dex="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\pre-dexed\debug\gdx-backend-android-1.6.1_b424ba300c0a096614358d4983894c9d8016cbf9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="fbb3885c40e431cd2b0dc69c0cab2bf6d5da7b43">
+        <dex dex="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-games-9.8.0_bbc77813ca0151d90be2f11f620efdb7e94455b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-9.8.0_83ef0068fdbbc998189ef08a0208c2e7ce55f2af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="5ffe8867f51cfc726e9fb21db1e5b6962ebf25a0">
+        <dex dex="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-messaging-9.8.0_3d1c52b84129c9024f6f8b651d233f4711a87b2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a2537b11ae24b42172d34e2a613fc0b903c56158">
+        <dex dex="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-awareness-9.8.0_ed196f3e1a147c4d64ead15895faa36f37dd212e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="04bbbddf868aa02dd33f9e90d8f5d908c360f638">
+        <dex dex="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-9.8.0_97131950e7d730b604aa12421f266047df2aad08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.8.0_8dbba6fc7a62ed50ebc2640bbfd473e0f14ef5af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Douglas\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-box2d\1.6.1\54d45169ae4f97d6ae4fe9daed87d80eea700f67\gdx-box2d-1.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="54d45169ae4f97d6ae4fe9daed87d80eea700f67">
+        <dex dex="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\pre-dexed\debug\gdx-box2d-1.6.1_09e814e25d28fd5cba24229d07097d745fc2f115.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="50e35ae101a679c4c8ef3dda075b1df9d5d947d9">
+        <dex dex="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-impl-9.8.0_d7247c6b23f6123eecfb92b65e65839a7f147e3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_b8742026bfad1223dde1d374b713a074758b8777.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Douglas\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_cc4b273bb26fb6d63a7524e6ea62ce35559346c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-9.8.0_a491838f44da8a3ba23a419f34cf5db18b3514e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e56f31b23ddb067f95f01255295167db7c798612">
+        <dex dex="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appinvite-9.8.0_0bd7233ad1200d3fed78675ae4ef2b8c789d12b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Douglas\Desktop\Tuffy Plus Plus\libs\tween-engine-api.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8be8beb70b7ccae059d523e56670f6e44fb1821f">
+        <dex dex="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\pre-dexed\debug\tween-engine-api_5e458143d618858c097d841e154184305d95759f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b4671be3d1288bf4e5f527cd33e42909fbe4ecc6">
+        <dex dex="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-crash-9.8.0_b3390a569bb57e798b3b636ee70cdb186207ed99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\pre-dexed\debug\com.android.support-palette-v7-24.0.0_eb2a6c1e847a295f98bc5c9dd885ae2ad53ed812.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-9.8.0_1616856588903734fe91eb0fc56bfa1fdbf6bc9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="9dae58326f6f6a515022468cce56dd04ec3b9fdb">
+        <dex dex="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-9.8.0_ba24c32ef7d1533459f85e143596fac3e7148feb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-common-9.8.0_3c0c842932913ab8d6f7b36825a4c6e07cff5e1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
+        <dex dex="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-clearcut-9.8.0_5d99a57425bea9f394b4a79da76ab332fea4e5f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a972970c8beddb69c198f61f3fc55f0606a7dfe3">
+        <dex dex="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-9.8.0_e66a05ed950c4f8f02045d829fdf4fd05d74cc75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a30aea7df545072ad3c06f56b2efc13e67222140">
+        <dex dex="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-9.8.0_c8750fb3d1b883b4405142071d77e05a2cd0cbb6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="cef85cfc7df40e29fbea58844dd4c1e7d0b15542">
+        <dex dex="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-identity-9.8.0_2626485b2b84c5153ab320a49cd6d3644b036475.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="00d358528c5a8731a6e19bca910cbb3fd755ee31">
+        <dex dex="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-instantapps-9.8.0_43883133aa16a69e59e7fc2a1ced82d4fac7801a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.0.0_36276e04b18d6171ef3451f2de953ede8b638ae6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c81df6bd515398ebe45089b0b16c55752a131f6a">
+        <dex dex="C:\Users\Douglas\Desktop\Tuffy Plus Plus\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-nearby-9.8.0_82e07883138b3a3eaebaf5c33d41c6742c46e87f.jar" />
+    </item>
+
+</items>
