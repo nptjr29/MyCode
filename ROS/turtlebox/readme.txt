@@ -1,10 +1,14 @@
+***This program makes the turtle autonomously navigate on a rectangle loop. 
+The turtle can start on any location and follow a rectangular path. Once it comes back to the original location, it stops.***
+
 The following must be installed before running this program
   + Linux Ubuntu 14.04 LTS
   + ROS Indigo (Desktop-Full)
+  + turtlesim package (to install, run this command: $ sudo apt-get install ros-indigo-turtlesim)
 
 Follow these steps to execute the program.
 
-0/ Download CMakeLists.txt, package.xml, and turtlebox.cpp
+0/ Download CMakeLists.txt, package.xml, and turtlebox.cpp.
 
 1/ Run this command from your workspace's src directory:
 $ catkin_create_pkg turtlebox
