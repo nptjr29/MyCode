@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package>
+	<name>turtlebox</name>
+	<version>0.0.1</version>
+	<description>CPSC 481 Assignment 2</description>
+	<maintainer email="tnguyen29@csu.fullerton.edu">Thao</maintainer>
+	<license>BSD</license>
+	<buildtool_depend>catkin</buildtool_depend>
+	<build_depend>geometry_msgs</build_depend>
+	<run_depend>geometry_msgs</run_depend>
+	<build_depend>turtlesim</build_depend>
+	<run_depend>turtlesim</run_depend>
+	<build_depend>roscpp</build_depend>
+	<run_depend>roscpp</run_depend>
+
+</package>
